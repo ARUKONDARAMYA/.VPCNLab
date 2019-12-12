@@ -1,0 +1,6 @@
+D:\17B81A05H5\12-12-2019\PropertyDemo\bin\Debug\PropertyDemo.exe.config
+D:\17B81A05H5\12-12-2019\PropertyDemo\bin\Debug\PropertyDemo.exe
+D:\17B81A05H5\12-12-2019\PropertyDemo\bin\Debug\PropertyDemo.pdb
+D:\17B81A05H5\12-12-2019\PropertyDemo\obj\Debug\PropertyDemo.exe
+D:\17B81A05H5\12-12-2019\PropertyDemo\obj\Debug\PropertyDemo.pdb
+D:\17B81A05H5\12-12-2019\PropertyDemo\obj\Debug\PropertyDemo.csprojResolveAssemblyReference.cache

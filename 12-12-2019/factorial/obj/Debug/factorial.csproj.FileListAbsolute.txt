@@ -1,0 +1,6 @@
+D:\17B81A05H5\12-12-2019\factorial\bin\Debug\factorial.exe.config
+D:\17B81A05H5\12-12-2019\factorial\bin\Debug\factorial.exe
+D:\17B81A05H5\12-12-2019\factorial\bin\Debug\factorial.pdb
+D:\17B81A05H5\12-12-2019\factorial\obj\Debug\factorial.csprojResolveAssemblyReference.cache
+D:\17B81A05H5\12-12-2019\factorial\obj\Debug\factorial.exe
+D:\17B81A05H5\12-12-2019\factorial\obj\Debug\factorial.pdb

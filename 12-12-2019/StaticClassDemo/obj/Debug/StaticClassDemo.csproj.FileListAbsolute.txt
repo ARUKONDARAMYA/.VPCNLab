@@ -1,0 +1,5 @@
+D:\17B81A05H5\12-12-2019\StaticClassDemo\bin\Debug\StaticClassDemo.exe.config
+D:\17B81A05H5\12-12-2019\StaticClassDemo\bin\Debug\StaticClassDemo.exe
+D:\17B81A05H5\12-12-2019\StaticClassDemo\bin\Debug\StaticClassDemo.pdb
+D:\17B81A05H5\12-12-2019\StaticClassDemo\obj\Debug\StaticClassDemo.exe
+D:\17B81A05H5\12-12-2019\StaticClassDemo\obj\Debug\StaticClassDemo.pdb
