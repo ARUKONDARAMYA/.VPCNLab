@@ -35,6 +35,8 @@ namespace Inheritance
             Student std = new Student("Hemanth", "CSE");
             Console.WriteLine($"Student Name: {std.name}");
             Console.WriteLine($"Branch: {std.getBranch()}");
+            Console.WriteLine($"Student is Person: {std is Person}");
+            Console.WriteLine($"Student is Branchable: {std is Branchable}");
         }
     }
 }
